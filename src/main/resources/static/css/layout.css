@@ -1,0 +1,29 @@
+.container {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color:#c9302c ;
+    text-decoration: solid;
+}
+.remember-me {
+    text-align: center;
+    color: red;
+    text-decoration: solid;
+    }
+.btn-login {
+    width: 100%;
+    color: red;
+    text-decoration: solid;
+}
+
+.header{
+    text-align: center;
+    text-decoration: solid;
+    font-size: large;
+    color: white;
+}
+
+body {
+    background: url("http://allswalls.com/images/chicago-wallpaper-8.jpg");
+
+}
